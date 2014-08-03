@@ -1,0 +1,46 @@
+<rss version="2.0">
+	<channel>
+	<title>RSS Laby</title>
+		<item>
+			<title>Laby 1</title>
+			<link>www.laby.1</link>
+		</item>
+		<item>
+			<title>Laby 2</title>
+			<link>www.laby.2</link>
+		</item>
+		<item>
+			<title>Laby 3</title>
+			<link>www.laby.3</link>
+		</item>
+		<item>
+			<title>Laby 4</title>
+			<link>www.laby.fr</link>
+		</item>
+		<item>
+			<title>Laby CB</title>
+			<link>www.google.ca</link>
+		</item>
+		<item>
+			<title>Laby CA</title>
+			<link>www.google.ca</link>
+		</item>
+		<item>
+			<title>Laby UK</title>
+			<link>www.google.co.uk</link>
+		</item>
+		<item>
+			<title>Laby KR</title>
+			<link>www.google.co.kr</link>
+		</item>
+		<item>
+			<title>Laby CN</title>
+			<link>www.google.co.cn</link>
+		</item>
+		<item>
+			<title>Laby COM</title>
+			<link>www.google.com</link>
+		</item>
+	</channel>
+</rss>
+ 
